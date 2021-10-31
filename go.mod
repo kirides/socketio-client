@@ -1,4 +1,4 @@
-module github.com/Kirides/socketio-client
+module github.com/kirides/socketio-client
 
 go 1.17
 
